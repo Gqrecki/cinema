@@ -1,0 +1,56 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+
+button{
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+input{
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    transition-duration: 0.4s;
+}
+
+input:hover {
+    background-color: black;
+    color: white;
+}
+
+#sala{
+    width: 360px;
+    margin: 0 auto;
+}
+
+#sala div{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    margin: 1px;
+    border: solid black 1px;
+}
+
+select{
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    transition-duration: 0.4s;
+}
+
+select:hover {
+    background-color: black;
+    color: white;
+}
