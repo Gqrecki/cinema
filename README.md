@@ -1,1 +1,1 @@
-Cinema HTML + JS + css + PHP
+Cinema HTML + JS + CSS + PHP
